@@ -1,0 +1,8 @@
+>Rosalind_1946
+TAATGTTACA
+>Rosalind_1392
+AGTCGCAAT
+>Rosalind_6660
+CCTAGCAGG
+>Rosalind_6231
+TACTACCCA
